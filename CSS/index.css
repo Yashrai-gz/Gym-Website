@@ -395,10 +395,7 @@ header {
     }
  
  .container:hover{
-    background: url('../images/dumbell2.JPG');
-    background-size:cover;
-    background-repeat: no-repeat;
-    filter: invert(100%);   
+    background-image: none;  
       
 }
     .form-group input {
